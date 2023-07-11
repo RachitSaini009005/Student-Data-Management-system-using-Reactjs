@@ -73,7 +73,7 @@ const Editstd = () => {
     
     
       let formhandle=()=>{
-        let multidata={name,sub1,sub2,sub3}
+        let multidata={name,sub1,sub2,sub3,sub4,address,Phone}
         axios.put(`http://localhost:3000/student/${index}`,multidata)
         .then((response)=>{
           console.log("STUDENT IS updated");
