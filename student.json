@@ -1,0 +1,63 @@
+{
+  "student": [
+    {
+      "name": "rachit",
+      "sub1": "55",
+      "sub2": "80",
+      "sub3": "66",
+      "id": 2
+    },
+    {
+      "name": "rachit saini",
+      "sub1": "89%",
+      "sub2": "99%",
+      "sub3": "98%",
+      "id": 3
+    },
+    {
+      "name": "rohit sharma",
+      "sub1": "89%",
+      "sub2": "90%",
+      "sub3": "90%",
+      "id": 4
+    },
+    {
+      "name": "RAHUL SHARMA",
+      "sub1": "78",
+      "sub2": "89",
+      "sub3": "99",
+      "id": 6
+    },
+    {
+      "name": "Rohan Shetty",
+      "sub1": "80",
+      "sub2": "90",
+      "sub3": "99",
+      "id": 7
+    },
+    {
+      "name": "Rohan Shetty",
+      "sub1": "66",
+      "sub2": "66",
+      "sub3": "66",
+      "total": "",
+      "id": 8
+    },
+    {
+      "name": "Madhav Das",
+      "sub1": "90",
+      "sub2": "90",
+      "sub3": "99",
+      "total": "",
+      "id": 9
+    },
+    {
+      "name": "madhav",
+      "sub1": "99",
+      "sub2": "99",
+      "sub3": "99",
+      "total": "",
+      "id": 10
+    }
+  ]
+}
